@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neusnet/neusnet/main/resources/img/neusnet-logo.png" width="260" alt="Neusnet Logo"><br><br>
+  <img src="img/neusnet-logo.png" width="260" alt="Neusnet Logo"><br><br>
 
   <h1>Neusnet</h1>
 
